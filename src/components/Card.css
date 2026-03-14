@@ -1,0 +1,19 @@
+.card-wrapper {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 15px;
+  width: 250px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  background-color: #fff;
+  transition: transform 0.2s;
+}
+
+.card-wrapper:hover {
+  transform: scale(1.03);
+}
+
+.card-content {
+  margin-top: 10px;
+  font-size: 16px;
+}

@@ -1,0 +1,30 @@
+.toggle-wrapper {
+  margin: 15px 0;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  width: fit-content;
+  background-color: #f9f9f9;
+}
+
+.toggle-btn {
+  padding: 8px 12px;
+  font-size: 14px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #007bff;
+  color: white;
+}
+
+.content-visible {
+  margin-top: 10px;
+  color: green;
+  font-weight: bold;
+}
+
+.content-hidden {
+  margin-top: 10px;
+  color: gray;
+  font-style: italic;
+}

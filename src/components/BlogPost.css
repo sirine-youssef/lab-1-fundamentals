@@ -1,0 +1,26 @@
+.blog-post {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 20px 0;
+  background-color: #fafafa;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.blog-post h1 {
+  margin-bottom: 10px;
+  font-size: 24px;
+  color: #333;
+}
+
+.post-content {
+  margin: 15px 0;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.post-date {
+  font-size: 14px;
+  color: #777;
+  text-align: right;
+}

@@ -1,0 +1,22 @@
+.counter-card {
+  margin: 15px 0;
+  padding: 15px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  display: inline-block;
+}
+
+.counter-card button {
+  margin: 5px;
+  padding: 8px 12px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  background-color: #007bff;
+  color: white;
+  font-weight: bold;
+}
+
+.counter-card button:hover {
+  opacity: 0.9;
+}
